@@ -1,6 +1,6 @@
 # The Unexpected Encounter
 
-The morning mist clung to the ancient pine trees as Bruno, a massive brown bear, ambled through his familiar forest territory. His paws pressed silently into the soft earth, leaving deep impressions in the damp soil. The woods had been his home for seven years, and he knew every stream, every fallen log, every berry bush within miles.
+The morning mist clung to the ancient pine trees as Bruno, a massive brown bear, ambled through his familiar forest territory. His paws pressed silently into the soft earth, leaving deep impressions in the damp soil. The woods had been his home for seven years. He knew every stream, every fallen log, every berry bush within miles.
 
 As he rounded a massive oak tree, something extraordinary caught his eye. There, sitting motionless beside a babbling creek, was a figure unlike anything he had ever encountered. It was roughly his size but made entirely of gleaming metal, with joints that caught the filtered sunlight streaming through the canopy above.
 
@@ -18,4 +18,4 @@ Bruno's ears perked forward at the sound. Though he couldn't understand the word
 
 As the sun climbed higher, both beings remained by the creek. The robot's solar panels absorbed energy while Bruno enjoyed the unusual company. When Unit-47 finally stood to continue its mission, Bruno rose as well. They regarded each other once more—the ancient resident of the forest and the visitor from a world of circuits and steel.
 
-The robot nodded, a gesture it had learned from observing humans, and Bruno dipped his massive head in response. Then they parted ways, each continuing their respective journeys through the woods, both somehow enriched by their brief but meaningful encounter between two very different forms of intelligence sharing the same world.
+The robot nodded, a gesture it had learned from observing humans. Bruno dipped his massive head in response. Then they parted ways, each continuing their respective journeys through the woods. Both were somehow enriched by their brief but meaningful encounter between two very different forms of intelligence sharing the same world.
